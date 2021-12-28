@@ -21,14 +21,9 @@
   - [.NET6 配置、日志、EFCore、ASP.NET Core Dev](https://github.com/AlbertZhaoz/producetool)
   - [Python玩转Excel](https://github.com/AlbertZhaoz/albertpython)
   - [Python自动化脚本](https://github.com/AlbertZhaoz/pythonautowork)
-  - [✏️✏️Java软件工程师简历](https://github.com/JoeyBling/cv)
-  - [一款简洁优雅的VuePress主题](https://github.com/JoeyBling/vuepress-theme-yilia-plus)
-  - [VuePress集成Live2D看板娘](https://github.com/JoeyBling/vuepress-plugin-helper-live2d)
-  - [VuePress集成Gitalk](https://github.com/JoeyBling/vuepress-plugin-mygitalk)
-  - [不蒜子访问量统计功能](https://github.com/JoeyBling/busuanzi.pure.js)
-  - [在`npm install`后提示用户消息或捐赠](https://github.com/JoeyBling/openteam-postinstall)
+  - [个人收藏的Github优秀项目](https://github.com/AlbertZhaoz/AlbertZhaoz/blob/master/AwesomeRepo.md)
   
-- **My Blog**  
+- **My Blog**
   - [Yueque-AlbertZhao](https://www.yuque.com/albertzhao)
 <br/><br/>
 
