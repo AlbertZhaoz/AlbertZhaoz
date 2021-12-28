@@ -19,8 +19,15 @@
 
 - **My Repo**
   - [.NET6 配置、日志、EFCore、ASP.NET Core Dev](https://github.com/AlbertZhaoz/producetool)
+  - [.NET6 配置系统](https://github.com/AlbertZhaoz/DotNet_ConfigSystem)
+  - [ASP.NET Core-配套深入浅出ASP.NET Core](https://github.com/AlbertZhaoz/GetStartedWithAspnetCore)
+  - [Winform-机架示波器UltraDAQ](https://github.com/AlbertZhaoz/UltraDAQ)
   - [Python玩转Excel](https://github.com/AlbertZhaoz/albertpython)
   - [Python自动化脚本](https://github.com/AlbertZhaoz/pythonautowork)
+  - [GetStartedWithGolang](https://github.com/AlbertZhaoz/GetStartedWithGolang)
+  - [GetStartedWithJava](https://github.com/AlbertZhaoz/GetStartedWithJava)
+  - [GetStartedWithAlgorithm](https://github.com/AlbertZhaoz/Algorithm)
+  - [GetStartedWithWPF](https://github.com/AlbertZhaoz/GettingStartedWithWPF)
   - [个人收藏的Github优秀项目](https://github.com/AlbertZhaoz/AlbertZhaoz/blob/master/AwesomeRepo.md)
   
 - **My Blog**
