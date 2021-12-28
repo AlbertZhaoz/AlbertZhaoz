@@ -15,7 +15,7 @@
   - [wechaty微信机器人](https://github.com/shfshanyue/wechat-bot)
   - [wwc-wechaty微信机器人](https://github.com/AlbertZhaoz/wwc-wechaty)
  
- - **脚本类**  
+- **脚本类**    
   - [鼠标连点器](https://github.com/robiot/AlphaClicker)
 
 - **感兴趣拓展类** 
