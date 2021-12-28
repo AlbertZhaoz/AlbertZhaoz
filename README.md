@@ -1,58 +1,64 @@
-### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
-<em>I am a 4th Year undergraduate student from <a href="https://jaipur.manipal.edu/"><b>Manipal University Jaipur</b></a>. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" height="20px"/>, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"> is enough knowledge**. 🧠</em>
+### <img src="https://github.com/AlbertZhaoz/AlbertZhaoz/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/AlbertZhaoz/AlbertZhaoz/blob/master/Assets/Earth.gif" width="24px">
+<em>I graduated from <a href="https://www.suda.edu.cn/"><b>Soochow University</b></a>. From very early on in my life, I started to fall in love with technology. 😍 This love has helped me develop a very good technological mindset <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" height="20px"/>, and given me the curiosity to learn more. <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"> I firmly believe that **no amount of knowledge is enough knowledge**. </em>
  <br/>
 ## Ask me about :computer: 
-- **Competitive Programming**
-	- C# ❤️
-	- Golang
-	- Python
-	- LabView
-
+- **Tech Stack**
+	- 💻 &#160;![.NET](https://img.shields.io/badge/-NET-333333?style=flat&logo=.NET&logoColor=FCC624)
+	![LabView](https://img.shields.io/badge/-LabView-333333?style=flat&logo=payoneer&logoColor=FF4800)
+	![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+	![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=Go)
+	- 🌐 &#160;![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
+	![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+	- 🛢 &#160;![SQLServer](https://img.shields.io/badge/-SqlServer-333333?style=flat&logo=react)
+	![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+	- 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+	![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+	![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+	
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
-- **Web Development**
-	- HTML, CSS and Javascript :white_check_mark:
-	- Bootstrap
-	- React with Redux :electron:
-	- MonogoDB
-  - Express
-  - NodeJS  
-- **Shell Scripting**
-
-
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
-<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
+- **My Repo**
+  - [.NET6 配置、日志、EFCore、ASP.NET Core Dev](https://github.com/AlbertZhaoz/producetool)
+  - [Python玩转Excel](https://github.com/AlbertZhaoz/albertpython)
+  - [Python自动化脚本](https://github.com/AlbertZhaoz/pythonautowork)
+  - [✏️✏️Java软件工程师简历](https://github.com/JoeyBling/cv)
+  - [一款简洁优雅的VuePress主题](https://github.com/JoeyBling/vuepress-theme-yilia-plus)
+  - [VuePress集成Live2D看板娘](https://github.com/JoeyBling/vuepress-plugin-helper-live2d)
+  - [VuePress集成Gitalk](https://github.com/JoeyBling/vuepress-plugin-mygitalk)
+  - [不蒜子访问量统计功能](https://github.com/JoeyBling/busuanzi.pure.js)
+  - [在`npm install`后提示用户消息或捐赠](https://github.com/JoeyBling/openteam-postinstall)
+  
+- **My Blog**  
+  - [Yueque-AlbertZhao](https://www.yuque.com/albertzhao)
 <br/><br/>
 
 ## 🌱 I’m currently learning ...
-- **Data Science**
-- **AI**
+- **ASP.NET Core**
+- **Go Web**
 <br/>
   <br/>
 
 
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajput2107&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlbertZhaoz&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
 </p>  
 
 <div align="center">
-  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+  <h3 align="center">Connect with me<img align="center" src="https://github.com/AlbertZhaoz/AlbertZhaoz/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
 <p align="center">
- <a href="https://www.linkedin.com/in/pramod-kumar-4aa47616b/" target="blank">
-  <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+ <a href="https://www.linkedin.com/in/albert-zhao-881368228/" target="blank">
+  <img align="center" alt="Albertzhao's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
- <a href="https://www.instagram.com/cyber_freak_21/" target="blank">
-  <img align="center" alt="Pramod's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
+ <a href="https://www.zhihu.com/people/hongyongzhao" target="blank">
+  <img align="center" alt="Albertzhao's Wechat" width="30px" src="https://www.vectorlogo.zone/logos/wechat/wechat-icon.svg" /> &nbsp; &nbsp;
  </a>
- <a href="https://twitter.com/pramod2107" target="blank">
-  <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
+ <a href="https://twitter.com/albertzhaoz" target="blank">
+  <img align="center" alt="Albertzhao's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
  </a>
- <a href="https://medium.com/@pramodrana2107" target="blank">
-  <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
+ <a href="https://www.youtube.com/channel/UCmYWP0JKRb4iiDhn7x97omg" target="blank">
+  <img align="center" alt="Albertzhao's Youtube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />
  </a> 
   <br/>
   <br/>
@@ -63,4 +69,4 @@
 <p>
 Visit my profile and give a ⭐️ if you like it</p>
 
-⭐️ From [rajput2107](https://github.com/rajput2107)
+⭐️ From [AlbertZhaoz](https://github.com/albertzhaoz)
