@@ -21,6 +21,7 @@
   - [.NET6 配置、日志、EFCore、ASP.NET Core Dev](https://github.com/AlbertZhaoz/producetool)
   - [.NET6 配置系统](https://github.com/AlbertZhaoz/DotNet_ConfigSystem)
   - [ASP.NET Core-配套深入浅出ASP.NET Core](https://github.com/AlbertZhaoz/GetStartedWithAspnetCore)
+  - [ASP.NET Core项目实战](https://github.com/AlbertZhaoz/NET_ASPNETCore)
   - [Winform-机架示波器UltraDAQ](https://github.com/AlbertZhaoz/UltraDAQ)
   - [Python玩转Excel](https://github.com/AlbertZhaoz/albertpython)
   - [Python自动化脚本](https://github.com/AlbertZhaoz/pythonautowork)
