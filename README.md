@@ -18,18 +18,26 @@
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
 - **My Repo**
-  - [.NET6 配置、日志、EFCore、ASP.NET Core Dev](https://github.com/AlbertZhaoz/producetool)
-  - [.NET6 配置系统](https://github.com/AlbertZhaoz/DotNet_ConfigSystem)
-  - [ASP.NET Core-配套深入浅出ASP.NET Core](https://github.com/AlbertZhaoz/GetStartedWithAspnetCore)
-  - [ASP.NET Core项目实战](https://github.com/AlbertZhaoz/NET_ASPNETCore)
-  - [Winform-机架示波器UltraDAQ](https://github.com/AlbertZhaoz/UltraDAQ)
-  - [Python玩转Excel](https://github.com/AlbertZhaoz/albertpython)
-  - [Python自动化脚本](https://github.com/AlbertZhaoz/pythonautowork)
-  - [GetStartedWithGolang](https://github.com/AlbertZhaoz/GetStartedWithGolang)
-  - [GetStartedWithJava](https://github.com/AlbertZhaoz/GetStartedWithJava)
-  - [GetStartedWithAlgorithm](https://github.com/AlbertZhaoz/Algorithm)
-  - [GetStartedWithWPF](https://github.com/AlbertZhaoz/GettingStartedWithWPF)
-  - [个人收藏的Github优秀项目](https://github.com/AlbertZhaoz/AlbertZhaoz/blob/master/AwesomeRepo.md)
+  - [Github简介](https://github.com/AlbertZhaoz/AlbertZhaoz)
+  - [Code_ADecadeOfProgramming](https://github.com/AlbertZhaoz/Code_ADecadeOfProgramming)
+  - [Code_Algorithm](https://github.com/AlbertZhaoz/Code_Algorithm)
+  - [Go_GetStartedWithGo](https://github.com/AlbertZhaoz/Go_GetStartedWithGo)
+  - [Java_GetStartedWithJava](https://github.com/AlbertZhaoz/Java_GetStartedWithJava)
+  - [LabVIEW_GetStartedWithLabVIEW](https://github.com/AlbertZhaoz/LabVIEW_GetStartedWithLabVIEW)
+  - [Life_WechatMarkdown](https://github.com/AlbertZhaoz/Life_WechatMarkdown)
+  - [NET_ASPNETCore](https://github.com/AlbertZhaoz/NET_ASPNETCore)
+  - [NET_ConfigSystem](https://github.com/AlbertZhaoz/NET_ConfigSystem)
+  - [NET_GetStartedWithNET](https://github.com/AlbertZhaoz/NET_GetStartedWithNET)
+  - [NET_GetStartedWithWPF](https://github.com/AlbertZhaoz/NET_GetStartedWithWPF)
+  - [NET_Mint](https://github.com/AlbertZhaoz/NET_Mint)
+  - [NET_ProduceTool](https://github.com/AlbertZhaoz/NET_ProduceTool)
+  - [NET_SDKConverter](https://github.com/AlbertZhaoz/NET_SDKConverter)
+  - [NET_UltraDAQ](https://github.com/AlbertZhaoz/NET_UltraDAQ)
+  - [NET_WPFAndABP](https://github.com/AlbertZhaoz/NET_WPFAndABP)
+  - [Python_AutomationScript](https://github.com/AlbertZhaoz/Python_AutomationScript)
+  - [Python_GetStartedWithPandas](https://github.com/AlbertZhaoz/Python_GetStartedWithPandas)
+  - [收藏的Github优秀项目](https://github.com/AlbertZhaoz/AlbertZhaoz/blob/master/AwesomeRepo.md)
+
   
 - **My Blog**
   - [Yueque-AlbertZhao](https://www.yuque.com/albertzhao)
