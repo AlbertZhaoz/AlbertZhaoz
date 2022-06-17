@@ -45,7 +45,9 @@
 
 ## 🌱 I’m currently learning ...
 - **ASP.NET Core**
-- **Go Web**
+- **WPF**
+- **Java**
+- **LabVIEW面向对象编程**
 <br/>
   <br/>
 
