@@ -1,5 +1,5 @@
 ### <img src="https://github.com/AlbertZhaoz/AlbertZhaoz/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/AlbertZhaoz/AlbertZhaoz/blob/master/Assets/Earth.gif" width="24px">
-<em>I graduated from <a href="https://www.suda.edu.cn/"><b>Soochow University</b></a>. From very early on in my life, I started to fall in love with technology. 😍 This love has helped me develop a very good technological mindset,and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. </em>
+<em>I graduated from <a href="https://www.suda.edu.cn/"><b>Soochow University</b></a>. From very early on in my life, I started to fall in love with technology.This love has helped me develop a very good technological mindset,and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. </em>
  <br/>
 ## Ask me about :computer: 
 - **Tech Stack**
