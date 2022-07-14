@@ -27,6 +27,7 @@
   - [Life_WechatMarkdown](https://github.com/AlbertZhaoz/Life_WechatMarkdown)
   - [NET_ASPNETCore](https://github.com/AlbertZhaoz/NET_ASPNETCore)
   - [NET_ConfigSystem](https://github.com/AlbertZhaoz/NET_ConfigSystem)
+  - [NET_GetStartedWithMVC](https://github.com/AlbertZhaoz/NET_GetStartedWithMVC)
   - [NET_GetStartedWithNET](https://github.com/AlbertZhaoz/NET_GetStartedWithNET)
   - [NET_GetStartedWithWPF](https://github.com/AlbertZhaoz/NET_GetStartedWithWPF)
   - [NET_Mint](https://github.com/AlbertZhaoz/NET_Mint)
