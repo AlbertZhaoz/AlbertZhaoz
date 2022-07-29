@@ -19,6 +19,7 @@
 
 - **My Repo**
   - [Github简介](https://github.com/AlbertZhaoz/AlbertZhaoz)
+  - [AlbertZhaoz](https://github.com/AlbertZhaoz/AlbertZhaoz)
   - [Code_ADecadeOfProgramming](https://github.com/AlbertZhaoz/Code_ADecadeOfProgramming)
   - [Code_Algorithm](https://github.com/AlbertZhaoz/Code_Algorithm)
   - [Go_GetStartedWithGo](https://github.com/AlbertZhaoz/Go_GetStartedWithGo)
@@ -28,6 +29,7 @@
   - [NET_ASPNETCore](https://github.com/AlbertZhaoz/NET_ASPNETCore)
   - [NET_ConfigSystem](https://github.com/AlbertZhaoz/NET_ConfigSystem)
   - [NET_GetStartedWithEFCore](https://github.com/AlbertZhaoz/NET_GetStartedWithEFCore)
+  - [NET_GetStartedWithHsl](https://github.com/AlbertZhaoz/NET_GetStartedWithHsl)
   - [NET_GetStartedWithMVC](https://github.com/AlbertZhaoz/NET_GetStartedWithMVC)
   - [NET_GetStartedWithNET](https://github.com/AlbertZhaoz/NET_GetStartedWithNET)
   - [NET_GetStartedWithWPF](https://github.com/AlbertZhaoz/NET_GetStartedWithWPF)
