@@ -32,6 +32,7 @@
   - [NET_GetStartedWithHsl](https://github.com/AlbertZhaoz/NET_GetStartedWithHsl)
   - [NET_GetStartedWithMVC](https://github.com/AlbertZhaoz/NET_GetStartedWithMVC)
   - [NET_GetStartedWithNET](https://github.com/AlbertZhaoz/NET_GetStartedWithNET)
+  - [NET_GetStartedWithSOA](https://github.com/AlbertZhaoz/NET_GetStartedWithSOA)
   - [NET_GetStartedWithWPF](https://github.com/AlbertZhaoz/NET_GetStartedWithWPF)
   - [NET_Mint](https://github.com/AlbertZhaoz/NET_Mint)
   - [NET_ProduceTool](https://github.com/AlbertZhaoz/NET_ProduceTool)
