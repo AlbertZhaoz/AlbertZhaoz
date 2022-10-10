@@ -61,10 +61,10 @@
 <br/><br/>
 
 ## 🌱 I’m currently learning ...
-- **ASP.NET Core**
-- **WPF**
+- **.NET 6**
+- **Font Dev**
+- **English**
 - **Java**
-- **LabVIEW面向对象编程**
 <br/>
   <br/>
 
