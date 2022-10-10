@@ -62,7 +62,7 @@
 
 ## 🌱 I’m currently learning ...
 - **.NET 6**
-- **Font Dev**
+- **Font Dev-CSS**
 - **English**
 - **Java**
 <br/>
