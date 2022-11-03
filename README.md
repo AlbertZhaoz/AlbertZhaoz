@@ -19,7 +19,7 @@
 
 - **My Repo**
   - [Github简介](https://github.com/AlbertZhaoz/AlbertZhaoz)
-  - [00_DotnetTenYears](https://github.com/AlbertZhaoz/00_DotnetTenYears)
+  - [00-DotnetTenYears](https://github.com/AlbertZhaoz/00_DotnetTenYears)
   - [01-DotnetBasicKnowledge](https://github.com/AlbertZhaoz/01-DotnetBasicKnowledge)
   - [02-ADO.NET](https://github.com/AlbertZhaoz/02-ADO.NET)
   - [03-ABPvNext](https://github.com/AlbertZhaoz/03-ABPvNext)
