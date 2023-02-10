@@ -62,10 +62,7 @@
 <br/><br/>
 
 ## 🌱 I’m currently learning ...
-- **.NET 6**
-- **Font Dev-CSS**
-- **English**
-- **Java**
+- **程序员练级攻略**
 <br/>
   <br/>
 
